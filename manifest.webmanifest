@@ -1,0 +1,11 @@
+{
+  "name": "球団編成室 — ぼくプロ用GM編成管理",
+  "short_name": "球団編成室",
+  "description": "ぼくのプロ野球の非公式の球団編成管理アプリ。選手・ドラフト・将来編成・年度比較",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091523",
+  "theme_color": "#0d1b2c",
+  "icons": [{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
